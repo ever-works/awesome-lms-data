@@ -1,0 +1,12 @@
+name: "Sakai"
+description: "Open-source LMS developed by the academic community for higher education. Focuses on collaboration and course management."
+source_url: "https://sakaiproject.org/"
+category: "Open-Source LMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "education"
+icon_url: "https://icons.duckduckgo.com/ip3/sakaiproject.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://sakaiproject.org/>\n- Repository: <https://github.com/sakaiproject/sakai>\n\nLicense: Educational Community License v2.0.\n"
+updated_at: "2026-11-21 17:47"

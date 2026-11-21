@@ -1,0 +1,12 @@
+- id: corporate-lms
+  name: "Corporate LMS"
+- id: course-platforms-for-creators
+  name: "Course Platforms for Creators"
+- id: open-source-lms
+  name: "Open-Source LMS"
+- id: lms-for-schools-and-universities
+  name: "LMS for Schools & Universities"
+- id: learning-experience-platforms
+  name: "Learning Experience Platforms"
+- id: authoring-tools
+  name: "Authoring Tools"

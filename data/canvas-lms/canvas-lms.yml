@@ -1,0 +1,12 @@
+name: "Canvas LMS"
+description: "Cloud-based learning management system for higher education and K-12 institutions. It offers course management, analytics, and mobile access."
+source_url: "https://www.instructure.com/canvas"
+category: "LMS for Schools & Universities"
+tags:
+  - "paid"
+  - "api"
+  - "education"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.instructure.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.instructure.com/canvas>\n"
+updated_at: "2026-11-21 17:47"

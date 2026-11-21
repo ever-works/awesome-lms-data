@@ -1,0 +1,12 @@
+name: "Chamilo"
+description: "Open-source e-learning and collaboration system for schools and businesses. It is lightweight and easy to install."
+source_url: "https://chamilo.org/"
+category: "Open-Source LMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "education"
+icon_url: "https://icons.duckduckgo.com/ip3/chamilo.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://chamilo.org/>\n- Repository: <https://github.com/chamilo/chamilo-lms>\n\nLicense: GNU GPL v3.\n"
+updated_at: "2026-11-21 17:47"

@@ -1,0 +1,11 @@
+name: "Litmos"
+description: "Corporate LMS focused on rapid deployment and ease of use for training employees and customers."
+source_url: "https://www.litmos.com/"
+category: "Corporate LMS"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.litmos.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.litmos.com/>\n"
+updated_at: "2026-11-21 17:47"

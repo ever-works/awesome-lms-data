@@ -1,0 +1,12 @@
+name: "LearnDash"
+description: "WordPress LMS plugin used by schools and businesses to create online courses. It offers quizzes, certificates, and content dripping."
+source_url: "https://www.learndash.com/"
+category: "LMS for Schools & Universities"
+tags:
+  - "paid"
+  - "api"
+  - "wordpress"
+  - "education"
+icon_url: "https://icons.duckduckgo.com/ip3/www.learndash.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.learndash.com/>\n"
+updated_at: "2026-11-21 17:47"

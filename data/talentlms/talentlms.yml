@@ -1,0 +1,12 @@
+name: "TalentLMS"
+description: "Cloud-based LMS designed for corporate training and employee onboarding. It features a user-friendly interface and gamification options."
+source_url: "https://www.talentlms.com/"
+category: "Corporate LMS"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "corporate"
+icon_url: "https://icons.duckduckgo.com/ip3/www.talentlms.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.talentlms.com/>\n"
+updated_at: "2026-11-21 17:47"

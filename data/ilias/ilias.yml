@@ -1,0 +1,12 @@
+name: "ILIAS"
+description: "Open-source LMS for universities, schools, and enterprises. Offers authoring tools, testing, and communication features."
+source_url: "https://www.ilias.de/"
+category: "Open-Source LMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "education"
+icon_url: "https://icons.duckduckgo.com/ip3/www.ilias.de.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.ilias.de/>\n- Repository: <https://github.com/ILIAS-eLearning/ILIAS>\n\nLicense: GPLv3.\n"
+updated_at: "2026-11-21 17:47"

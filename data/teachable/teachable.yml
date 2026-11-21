@@ -1,0 +1,12 @@
+name: "Teachable"
+description: "Platform for creators to create and sell online courses and coaching services. It handles payments, hosting, and student management."
+source_url: "https://teachable.com/"
+category: "Course Platforms for Creators"
+tags:
+  - "freemium"
+  - "paid"
+  - "api"
+  - "creators"
+icon_url: "https://icons.duckduckgo.com/ip3/teachable.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://teachable.com/>\n"
+updated_at: "2026-11-21 17:47"

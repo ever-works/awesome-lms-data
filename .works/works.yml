@@ -1,0 +1,31 @@
+company_name: "Awesome LMS"
+content_table: true
+item_name: Item
+items_name: Items
+paging_mode: paging
+copyright_year: 2026
+name: "Awesome LMS"
+initial_prompt: "A curated directory of learning-management systems and online-course platforms, corporate and open source. Include products such as Moodle, Canvas LMS, TalentLMS, Docebo, Thinkific, Teachable, LearnDash, Open edX, Absorb LMS, 360Learning, Chamilo, iSpring Learn, plus other notable commercial and open-source options. Categories: Corporate LMS, Course Platforms for Creators, Open-Source LMS, LMS for Schools & Universities, Learning Experience Platforms, Authoring Tools. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
+providers:
+  ai: openrouter
+  search: tavily
+  pipeline: agent-pipeline
+  contentExtractor: local-content-extractor
+website_repo: "ever-works/awesome-lms-website"
+company_website: "https://lms.ever.works"
+settings:
+  categories_enabled: true
+  companies_enabled: true
+  tags_enabled: true
+  collections_enabled: true
+  surveys_enabled: true
+  import_enabled: false
+  export_enabled: false
+  import_max_rows: 500
+pagination:
+  type: standard
+  itemsPerPage: 12
+custom_menu:
+  header: []
+  footer: []
+version: 0.1.0

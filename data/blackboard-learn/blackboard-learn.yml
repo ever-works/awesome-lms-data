@@ -1,0 +1,12 @@
+name: "Blackboard Learn"
+description: "LMS for higher education and K-12 institutions. Provides course delivery, assessment, and analytics tools."
+source_url: "https://www.blackboard.com/"
+category: "LMS for Schools & Universities"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "education"
+icon_url: "https://icons.duckduckgo.com/ip3/www.blackboard.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.blackboard.com/>\n"
+updated_at: "2026-11-21 17:47"

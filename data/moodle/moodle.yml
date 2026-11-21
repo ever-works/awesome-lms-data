@@ -1,0 +1,13 @@
+name: "Moodle"
+description: "Open-source learning platform used by educators and administrators to create personalized learning environments. It supports a wide range of plugins and is community-driven."
+source_url: "https://moodle.org/"
+category: "Open-Source LMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "api"
+  - "education"
+icon_url: "https://icons.duckduckgo.com/ip3/moodle.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://moodle.org/>\n- Repository: <https://github.com/moodle/moodle>\n\nLicense: GPLv3.\n"
+updated_at: "2026-11-21 17:47"
