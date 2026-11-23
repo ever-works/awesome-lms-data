@@ -1,0 +1,33 @@
+name: ULEARN
+description: ULEARN is an open source (FREE) LMS script built with Laravel 5.8
+  and ReactJS 16.9. It provides a learning management system for creating and
+  managing online courses.
+source_url: https://github.com/ulearn-lms/ulearn
+category: Open-Source LMS
+tags:
+  - Open Source
+  - Self-Hosted
+  - Laravel
+  - PHP
+  - ReactJS
+featured: false
+markdown: |-
+  ## Overview
+
+  ULEARN is an open source (FREE) LMS script in Laravel 5.8 and ReactJS 16.9.
+
+  ## Deployment
+
+  Self-hosted open source solution.
+
+  ## Technology
+
+  - Backend: Laravel 5.8 (PHP)
+  - Frontend: ReactJS 16.9
+
+  ## License
+
+  Free and open source.
+brand: ULEARN
+images: []
+updated_at: 2026-11-23 01:25

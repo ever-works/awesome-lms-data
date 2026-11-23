@@ -1,0 +1,46 @@
+name: Claroline
+description: Claroline is an open-source learning management system and course
+  management system written in PHP. It enables institutions to create and manage
+  online courses and collaborative learning environments. Released under the GNU
+  General Public License (GPL), it supports self-hosted deployment.
+source_url: https://www.claroline.net/
+category: Open-Source LMS
+tags:
+  - open-source
+  - self-hosted
+  - GPL
+  - PHP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Claroline is an open-source learning management system (LMS) and course
+  management system written in PHP.
+
+
+  ## Features
+
+
+  - Open-source under the GNU General Public License (GPL)
+
+  - Written in PHP
+
+  - Course creation and management
+
+  - Collaborative learning tools
+
+  - Self-hosted deployment
+
+  - Document sharing
+
+  - Calendar and agenda management
+
+
+  ## Pricing
+
+
+  Free and open-source under the GPL license. Self-hosted with no licensing
+  fees.
+brand: Claroline
+updated_at: 2026-11-23 01:25

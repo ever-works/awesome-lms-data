@@ -1,0 +1,43 @@
+name: Sensei LMS
+description: Sensei LMS is a learning management system plugin for WordPress
+  that enables online courses, quizzes, and learning. It is built with PHP and
+  integrates with the WordPress ecosystem.
+source_url: https://sensei.com/
+category: Course Platforms for Creators
+tags:
+  - WordPress
+  - PHP
+  - Open Source
+  - Course Creator
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Sensei LMS is a learning management system plugin for WordPress that enables
+  online courses, quizzes, and learning.
+
+
+  ## Deployment
+
+
+  WordPress plugin - self-hosted.
+
+
+  ## Technology
+
+
+  Built with PHP for the WordPress platform.
+
+
+  ## Features
+
+
+  - Online course creation
+
+  - Quizzes and assessments
+
+  - Learning management for WordPress sites
+brand: Sensei LMS
+images: []
+updated_at: 2026-11-23 01:25

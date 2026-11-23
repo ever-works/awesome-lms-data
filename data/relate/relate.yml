@@ -1,0 +1,53 @@
+name: RELATE
+description: RELATE is an open-source courseware package featuring flexible
+  rules, statistics, multi-course support, and a class calendar. It is released
+  under the MIT license and written in Python.
+source_url: https://relate-lms.org/
+category: Open-Source LMS
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  RELATE is an open-source courseware package for managing courses with flexible
+  rules, statistics, multi-course support, and a class calendar.
+
+
+  ## Features
+
+
+  - Courseware package
+
+  - Flexible rules and statistics
+
+  - Multi-course support
+
+  - Class calendar
+
+  - Self-hosted deployment
+
+  - Web-based interface
+
+
+  ## Deployment
+
+
+  Self-hosted
+
+
+  ## License
+
+
+  MIT
+
+
+  ## Technology
+
+
+  Python
+brand: RELATE
+updated_at: 2026-11-23 01:25

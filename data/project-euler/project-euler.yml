@@ -1,0 +1,53 @@
+name: Project Euler
+description: Project Euler is a series of challenging mathematical and computer
+  programming problems that require mathematical insight and programming
+  practice to solve. It is an open-source platform with a community of problem
+  solvers. The problems range in difficulty and are designed to be solved with
+  code.
+source_url: https://projecteuler.net
+category: Open-Source LMS
+tags:
+  - Open Source
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Project Euler is a collection of challenging mathematical and computer
+  programming problems that require more than just mathematical insights to
+  solve.
+
+
+  ## Features
+
+
+  - Challenging mathematical and programming problems
+
+  - Problem-solving skills development
+
+  - Programming practice across multiple languages
+
+  - Mathematical insight and algorithm design
+
+  - Community of problem solvers
+
+
+  ## Pricing
+
+
+  Completely free.
+
+
+  ## License
+
+
+  Open source.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS).
+brand: Project Euler
+updated_at: 2026-11-23 01:25

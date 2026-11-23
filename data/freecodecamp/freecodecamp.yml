@@ -1,0 +1,55 @@
+name: freeCodeCamp
+description: freeCodeCamp is a non-profit community that helps people learn to
+  code by building projects for nonprofits. It offers a comprehensive curriculum
+  with project-based learning and community support. The platform is completely
+  free and open source.
+source_url: https://www.freecodecamp.org
+category: Open-Source LMS
+tags:
+  - Open Source
+  - Free Plan
+  - Non-Profit
+featured: false
+markdown: >-
+  ## Overview
+
+
+  freeCodeCamp is a non-profit community that helps people learn to code for
+  free by completing coding challenges and building projects.
+
+
+  ## Features
+
+
+  - Comprehensive curriculum covering web development, data science, and more
+
+  - Project-based learning
+
+  - Community support and study groups
+
+  - Real-world non-profit projects
+
+  - Free certifications
+
+  - Open source codebase
+
+
+  ## Pricing
+
+
+  Completely free.
+
+
+  ## License
+
+
+  Open source. Repository: https://github.com/freeCodeCamp/freeCodeCamp
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS); open-source repository available for self-hosting.
+brand: freeCodeCamp
+brand_logo_url: https://cdn.freecodecamp.org/platform/universal/fcc_meta_192x192.png
+updated_at: 2026-11-23 01:25

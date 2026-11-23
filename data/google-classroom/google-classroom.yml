@@ -1,0 +1,57 @@
+name: Google Classroom
+description: Google Classroom is a free blended learning platform developed by
+  Google for schools. It simplifies creating, distributing, and grading
+  assignments in a paperless way. It integrates with Google Workspace for
+  Education and is available at no cost for educational institutions.
+source_url: https://classroom.google.com/
+category: LMS for Schools & Universities
+tags:
+  - free
+  - cloud
+  - K-12
+  - higher-education
+  - Google-Workspace
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Google Classroom is a free web service developed by Google for schools that
+  aims to simplify creating, distributing, and grading assignments in a
+  paperless way. It is part of Google Workspace for Education.
+
+
+  ## Features
+
+
+  - Free for educational institutions
+
+  - Assignment creation and distribution
+
+  - Grading and feedback tools
+
+  - Integration with Google Workspace (Docs, Drive, Meet, etc.)
+
+  - Class stream for announcements
+
+  - Student work tracking
+
+  - Guardian email summaries
+
+  - Mobile apps for iOS and Android
+
+  - Originality reports
+
+  - Rubrics
+
+  - Cloud-hosted deployment
+
+
+  ## Pricing
+
+
+  Free for schools using Google Workspace for Education. Paid editions
+  (Education Plus, Teaching and Learning Upgrade) available with additional
+  features.
+brand: Google
+updated_at: 2026-11-23 01:25

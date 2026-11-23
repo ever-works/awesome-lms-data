@@ -1,0 +1,54 @@
+name: Uzity
+description: Uzity is a cloud-based learning management system for schools,
+  universities, and businesses. It provides course management, assessment,
+  reporting, and mobile learning capabilities. It operates on a
+  paid/subscription model with cloud deployment.
+source_url: https://www.uzity.com/
+category: LMS for Schools & Universities
+tags:
+  - paid
+  - cloud
+  - K-12
+  - higher-education
+  - corporate
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Uzity is a cloud-based learning management system (LMS) designed for
+  educational institutions and businesses to manage online courses and training
+  programs.
+
+
+  ## Features
+
+
+  - Course creation and management
+
+  - Student enrollment and management
+
+  - Assessment and quiz tools
+
+  - Gradebook and reporting
+
+  - Discussion forums
+
+  - Mobile learning support
+
+  - Content management
+
+  - User roles and permissions
+
+  - Cloud-hosted deployment
+
+  - API access
+
+
+  ## Pricing
+
+
+  Paid subscription model. Pricing varies based on number of users and features.
+  Contact vendor for quotes.
+brand: Uzity
+updated_at: 2026-11-23 01:25

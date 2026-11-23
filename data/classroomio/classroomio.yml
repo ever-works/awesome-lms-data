@@ -1,0 +1,40 @@
+name: ClassroomIO
+description: ClassroomIO is an Intelligent Customer Training Platform that helps
+  SaaS companies use education to grow their business. It is an open source
+  project built with TypeScript, designed for customer training and education
+  use cases.
+source_url: https://classroom.io/
+category: Corporate LMS
+tags:
+  - Open Source
+  - Self-Hosted
+  - TypeScript
+  - Customer Training
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ClassroomIO is an Intelligent Customer Training Platform that helps SaaS
+  companies use education to grow their business.
+
+
+  ## Deployment
+
+
+  Self-hosted open source solution.
+
+
+  ## Technology
+
+
+  Built with TypeScript.
+
+
+  ## License
+
+
+  Open source.
+brand: ClassroomIO
+images: []
+updated_at: 2026-11-23 01:25

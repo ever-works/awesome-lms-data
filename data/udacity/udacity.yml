@@ -1,0 +1,49 @@
+name: Udacity
+description: Udacity is an online learning platform that offers Nanodegree
+  programs and free online courses in deep learning, machine learning, web
+  development, and other tech fields. It partners with industry leaders to
+  create job-relevant curricula. The platform emphasizes hands-on projects and
+  mentorship support.
+source_url: https://www.udacity.com
+category: Course Platforms for Creators
+tags:
+  - Paid
+  - Enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Udacity is an online learning platform focused on career-relevant technical
+  education through Nanodegree programs and individual courses.
+
+
+  ## Features
+
+
+  - Nanodegree programs in deep learning, machine learning, web development,
+  data science, and more
+
+  - Industry-relevant curriculum developed with company partners
+
+  - Hands-on projects
+
+  - Mentorship and support
+
+  - Flexible, self-paced learning
+
+  - Career services and resume reviews
+
+
+  ## Pricing
+
+
+  Nanodegree programs are paid subscriptions. Some free courses are available.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS).
+brand: Udacity
+updated_at: 2026-11-23 01:25

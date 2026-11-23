@@ -1,0 +1,49 @@
+name: Digitools
+description: Digitools is an open-source set of simple tools to accompany the
+  animation of courses in person or remotely. Documentation is in French. It is
+  released under the AGPL-3.0 license and written in PHP.
+source_url: https://digitools.org/
+category: LMS for Schools & Universities
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Digitools is an open-source set of simple tools designed to accompany the
+  animation of courses, in person or remotely.
+
+
+  ## Features
+
+
+  - Simple tools for course animation
+
+  - Supports in-person and remote teaching
+
+  - Self-hosted deployment
+
+  - Web-based interface
+
+
+  ## Deployment
+
+
+  Self-hosted
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Technology
+
+
+  PHP
+brand: Digitools
+updated_at: 2026-11-23 01:25

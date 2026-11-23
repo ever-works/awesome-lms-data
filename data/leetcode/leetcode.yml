@@ -1,0 +1,48 @@
+name: LeetCode
+description: LeetCode is a platform for practicing and leveling up development
+  skills and preparing for technical interviews. It features a comprehensive
+  problem library, an active community, and company-specific interview
+  questions. The platform is widely used by software engineers for interview
+  preparation.
+source_url: https://leetcode.com
+category: Learning Experience Platforms
+tags:
+  - Freemium
+  - Paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LeetCode is an online platform for practicing coding problems and preparing
+  for technical interviews.
+
+
+  ## Features
+
+
+  - Comprehensive problem library across algorithms, data structures, and
+  databases
+
+  - Company-specific interview questions
+
+  - Active community and discussion forums
+
+  - Mock interviews and contests
+
+  - Skill progression tracking
+
+
+  ## Pricing
+
+
+  Free tier with basic problem access. Premium subscription unlocks additional
+  problems, company tags, and interview simulations.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS).
+brand: LeetCode
+updated_at: 2026-11-23 01:25

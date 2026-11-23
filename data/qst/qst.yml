@@ -1,0 +1,51 @@
+name: QST
+description: QST is an open-source online assessment software for quizzes and
+  large-scale proctored desktop testing. It is released under the GPL-2.0
+  license and written in Perl.
+source_url: https://www.qst.be/
+category: LMS for Schools & Universities
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  QST is an open-source online assessment software supporting everything from
+  quick phone quizzes to large-scale, high-stakes, proctored desktop testing.
+
+
+  ## Features
+
+
+  - Online assessment software
+
+  - Quick quizzes to large-scale proctored testing
+
+  - Secure and economical testing
+
+  - Self-hosted deployment
+
+  - Web-based interface
+
+
+  ## Deployment
+
+
+  Self-hosted
+
+
+  ## License
+
+
+  GPL-2.0
+
+
+  ## Technology
+
+
+  Perl
+brand: QST
+updated_at: 2026-11-23 01:25

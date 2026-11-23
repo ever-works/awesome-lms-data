@@ -1,0 +1,47 @@
+name: Khan Academy
+description: Khan Academy offers online tools to help students learn about a
+  variety of important school subjects. It provides videos, practice exercises,
+  and materials for instructors at no cost. The platform is a non-profit
+  organization offering free, personalized learning.
+source_url: https://www.khanacademy.org
+category: LMS for Schools & Universities
+tags:
+  - Free Plan
+  - Non-Profit
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Khan Academy is a non-profit educational organization providing free online
+  learning tools for students, teachers, and parents.
+
+
+  ## Features
+
+
+  - Free access to all content
+
+  - Wide range of subjects including math, science, economics, history, and more
+
+  - Video lessons and practice exercises
+
+  - Personalized learning dashboard
+
+  - Materials for instructors and coaches
+
+  - Test preparation (SAT, LSAT, MCAT, etc.)
+
+
+  ## Pricing
+
+
+  Completely free; supported by donations.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS).
+brand: Khan Academy
+updated_at: 2026-11-23 01:25

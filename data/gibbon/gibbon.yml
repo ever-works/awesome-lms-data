@@ -1,0 +1,49 @@
+name: Gibbon
+description: Gibbon is a flexible, open-source school management platform
+  designed to make life better for teachers, students, parents, and leaders. It
+  is released under the GPL-3.0 license and written in PHP.
+source_url: https://gibbonedu.org/
+category: LMS for Schools & Universities
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Gibbon is a flexible open-source school management platform designed to
+  improve the experience for teachers, students, parents, and school leaders.
+
+
+  ## Features
+
+
+  - School management platform for teachers, students, parents, and leaders
+
+  - Flexible and modular architecture
+
+  - Self-hosted deployment
+
+  - Web-based interface
+
+
+  ## Deployment
+
+
+  Self-hosted
+
+
+  ## License
+
+
+  GPL-3.0
+
+
+  ## Technology
+
+
+  PHP
+brand: Gibbon
+updated_at: 2026-11-23 01:25

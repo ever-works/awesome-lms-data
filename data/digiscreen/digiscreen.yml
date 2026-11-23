@@ -1,0 +1,49 @@
+name: Digiscreen
+description: Digiscreen is an open-source interactive whiteboard and wallpaper
+  for the classroom, usable in person or remotely. Documentation is in French.
+  It is released under the AGPL-3.0 license and written in Node.js and PHP.
+source_url: https://digiscreen.org/
+category: LMS for Schools & Universities
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Digiscreen is an open-source interactive whiteboard and wallpaper for the
+  classroom, designed for in-person or remote teaching.
+
+
+  ## Features
+
+
+  - Interactive whiteboard/wallpaper for classroom use
+
+  - Supports in-person and remote teaching
+
+  - Self-hosted deployment
+
+  - Web-based interface
+
+
+  ## Deployment
+
+
+  Self-hosted
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Technology
+
+
+  Node.js, PHP
+brand: Digiscreen
+updated_at: 2026-11-23 01:25

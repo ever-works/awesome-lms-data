@@ -1,0 +1,49 @@
+name: Duolingo
+description: Duolingo is a free language learning app available for iOS,
+  Windows, and Android devices. It breaks language learning into small lessons
+  where users earn points and level up through gamified exercises. The app
+  offers a free tier with ads and a paid Super Duolingo subscription.
+source_url: https://www.duolingo.com
+category: Learning Experience Platforms
+tags:
+  - Freemium
+  - Paid
+  - Mobile
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Duolingo is a language-learning platform that makes learning a new language
+  fun through gamified, bite-sized lessons.
+
+
+  ## Features
+
+
+  - Gamified language lessons
+
+  - Points, streaks, and leveling system
+
+  - Variety of languages
+
+  - Free tier with ads
+
+  - Super Duolingo paid subscription (ad-free, offline access)
+
+  - Mobile and web applications
+
+
+  ## Pricing
+
+
+  Free tier available. Super Duolingo subscription removes ads and adds offline
+  access.
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS) with mobile and web apps.
+brand: Duolingo
+updated_at: 2026-11-23 01:25

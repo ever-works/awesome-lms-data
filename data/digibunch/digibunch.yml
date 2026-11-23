@@ -1,0 +1,47 @@
+name: Digibunch
+description: Digibunch is an open-source tool for creating bunches of links to
+  share with learners or colleagues. It is self-hosted and released under the
+  AGPL-3.0 license, written in Node.js and PHP.
+source_url: https://digibunch.org/
+category: Course Platforms for Creators
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Digibunch is an open-source link-sharing tool designed for educators to create
+  collections of links to share with learners or colleagues.
+
+
+  ## Features
+
+
+  - Create bunches of links to share with learners or colleagues
+
+  - Self-hosted deployment
+
+  - Web-based interface
+
+
+  ## Deployment
+
+
+  Self-hosted
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Technology
+
+
+  Node.js, PHP
+brand: Digibunch
+updated_at: 2026-11-23 01:25

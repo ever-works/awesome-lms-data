@@ -1,0 +1,51 @@
+name: INGInious
+description: INGInious is an open-source intelligent grader that allows secured
+  and automated testing of code made by students. It is released under the
+  AGPL-3.0 license and written in Python with Docker support.
+source_url: https://www.inginious.org/
+category: LMS for Schools & Universities
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  INGInious is an open-source intelligent grader for secured and automated
+  testing of code written by students.
+
+
+  ## Features
+
+
+  - Intelligent grader for student code
+
+  - Secured and automated testing
+
+  - Supports multiple programming languages
+
+  - Self-hosted deployment
+
+  - Web-based interface
+
+
+  ## Deployment
+
+
+  Self-hosted (Docker)
+
+
+  ## License
+
+
+  AGPL-3.0
+
+
+  ## Technology
+
+
+  Python, Docker
+brand: INGInious
+updated_at: 2026-11-23 01:25

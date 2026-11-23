@@ -1,0 +1,54 @@
+name: Exercism
+description: Exercism is a free platform that helps developers practice and
+  level up their coding skills in over 30 different languages. It offers
+  mentorship, a wide variety of languages, and structured learning tracks. The
+  platform is open source and completely free.
+source_url: https://exercism.org
+category: Open-Source LMS
+tags:
+  - Open Source
+  - Free Plan
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Exercism is a free, open-source platform for practicing programming skills
+  through coding exercises and mentorship.
+
+
+  ## Features
+
+
+  - Practice problems in over 30 programming languages
+
+  - Mentorship from experienced developers
+
+  - Wide variety of languages
+
+  - Structured learning tracks
+
+  - Free of cost
+
+  - Open source codebase
+
+
+  ## Pricing
+
+
+  Completely free.
+
+
+  ## License
+
+
+  Open source. Repository: https://github.com/exercism
+
+
+  ## Deployment
+
+
+  Cloud-hosted (SaaS).
+brand: Exercism
+brand_logo_url: https://exercism.org/logo.png
+updated_at: 2026-11-23 01:25
