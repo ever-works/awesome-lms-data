@@ -1,26 +1,156 @@
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: api
-  name: "API"
+  name: API
 - id: education
-  name: "Education"
+  name: Education
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: corporate
-  name: "Corporate"
+  name: Corporate
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: creators
-  name: "Creators"
+  name: Creators
 - id: wordpress
-  name: "WordPress"
+  name: WordPress
+- id: mobile-first
+  name: Mobile First
+- id: scorm
+  name: SCORM
+- id: perpetual-license
+  name: Perpetual License
+- id: html5
+  name: HTML5
+- id: vr
+  name: VR
+- id: accessibility
+  name: Accessibility
+- id: lxp
+  name: LXP
+- id: corporate-lms
+  name: Corporate LMS
+- id: microlearning
+  name: Microlearning
+- id: content-library
+  name: Content Library
+- id: blended-learning
+  name: Blended Learning
+- id: gpl
+  name: GPL
+- id: php
+  name: PHP
+- id: typescript
+  name: TypeScript
+- id: customer-training
+  name: Customer Training
+- id: talent-management
+  name: Talent Management
+- id: mobile
+  name: Mobile
+- id: k-12
+  name: K 12
+- id: sis-integration
+  name: SIS Integration
+- id: parent-engagement
+  name: Parent Engagement
+- id: white-label
+  name: White Label
+- id: saas
+  name: SaaS
+- id: erp
+  name: ERP
+- id: corporate-training
+  name: Corporate Training
+- id: continuing-education
+  name: Continuing Education
+- id: associations
+  name: Associations
+- id: accreditation
+  name: Accreditation
+- id: apache-20
+  name: Apache 2.0
+- id: universities
+  name: Universities
+- id: academic-management
+  name: Academic Management
+- id: non-profit
+  name: Non Profit
+- id: free
+  name: Free
+- id: higher-education
+  name: Higher Education
+- id: google-workspace
+  name: Google Workspace
+- id: gamification
+  name: Gamification
+- id: authoring
+  name: Authoring
+- id: game-based
+  name: Game Based
+- id: quizzes
+  name: Quizzes
+- id: course-platform
+  name: Course Platform
+- id: learning-design
+  name: Learning Design
+- id: stem
+  name: STEM
+- id: salesforce-integration
+  name: Salesforce Integration
+- id: agpl
+  name: AGPL
+- id: mooc
+  name: MOOC
+- id: social-learning
+  name: Social Learning
+- id: mobile-learning
+  name: Mobile Learning
+- id: smb
+  name: SMB
+- id: course-creator
+  name: Course Creator
+- id: mobile-compatibility
+  name: Mobile Compatibility
+- id: customer-education
+  name: Customer Education
+- id: monetization
+  name: Monetization
+- id: integrations
+  name: Integrations
+- id: science-education
+  name: Science Education
+- id: spain
+  name: Spain
+- id: classroom
+  name: Classroom
+- id: laravel
+  name: Laravel
+- id: reactjs
+  name: ReactJS
+- id: online-tutoring
+  name: Online Tutoring
+- id: math
+  name: Math
+- id: science
+  name: Science
+- id: homework
+  name: Homework
+- id: online-courses
+  name: Online Courses
+- id: course-creation
+  name: Course Creation
+- id: marketing
+  name: Marketing
+- id: sales-training
+  name: Sales Training

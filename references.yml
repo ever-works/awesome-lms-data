@@ -1,14 +1,59 @@
-- url: "https://en.wikipedia.org/wiki/List_of_learning_management_systems"
-  title: "Wikipedia — List of learning management systems"
-- url: "https://www.softwaresuggest.com/corporate-lms-software"
-  title: "SoftwareSuggest — Corporate LMS Software"
-- url: "https://www.softwaresuggest.com/e-learning-software"
-  title: "SoftwareSuggest — ELearning Software"
-- url: "https://www.saashub.com/best-online-courses-software"
-  title: "SaaSHub — Online Courses"
-- url: "https://openalternative.co/categories/content-publishing/learning-management-systems-lms"
-  title: "OpenAlternative — Learning Management Systems (LMS)"
-- url: "https://awesome-selfhosted.net/tags/learning-and-courses.html"
-  title: "awesome-selfhosted — Learning and Courses"
-- url: "https://github.com/topics/lms"
-  title: "GitHub topic — `lms` (2,771 repos)"
+- url: https://awesome-selfhosted.net/tags/learning-and-courses.html
+  normalized_url: https://awesome-selfhosted.net/tags/learning-and-courses.html
+  first_seen_at: 2026-11-23T01:21:30.955Z
+  last_attempted_at: 2026-11-23T01:21:30.955Z
+  last_success_at: 2026-11-23T01:21:30.955Z
+  status: success
+  items_created: 10
+  pipeline: agent-pipeline
+- url: https://en.wikipedia.org/wiki/List_of_learning_management_systems
+  normalized_url: https://en.wikipedia.org/wiki/List_of_learning_management_systems
+  first_seen_at: 2026-11-23T01:06:25.189Z
+  last_attempted_at: 2026-11-23T01:06:25.189Z
+  last_success_at: 2026-11-23T01:06:25.189Z
+  status: success
+  items_created: 24
+  pipeline: agent-pipeline
+- url: https://github.com/topics/lms
+  normalized_url: https://github.com/topics/lms
+  first_seen_at: 2026-11-23T01:22:57.676Z
+  last_attempted_at: 2026-11-23T01:22:57.676Z
+  last_success_at: 2026-11-23T01:22:57.676Z
+  status: success
+  items_created: 3
+  pipeline: agent-pipeline
+- url: https://openalternative.co/categories/content-publishing/learning-management-systems-lms
+  normalized_url: https://openalternative.co/categories/content-publishing/learning-management-systems-lms
+  first_seen_at: 2026-11-23T01:20:19.801Z
+  last_attempted_at: 2026-11-23T01:20:19.801Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://openalternative.co/categories/content-publishing/learning-managemen\
+    t-systems-lms"
+- url: https://www.saashub.com/best-online-courses-software
+  normalized_url: https://www.saashub.com/best-online-courses-software
+  first_seen_at: 2026-11-23T01:17:14.430Z
+  last_attempted_at: 2026-11-23T01:17:14.430Z
+  last_success_at: 2026-11-23T01:17:14.430Z
+  status: success
+  items_created: 12
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/corporate-lms-software
+  normalized_url: https://www.softwaresuggest.com/corporate-lms-software
+  first_seen_at: 2026-11-23T01:10:32.349Z
+  last_attempted_at: 2026-11-23T01:10:32.349Z
+  last_success_at: 2026-11-23T01:10:32.349Z
+  status: success
+  items_created: 15
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/e-learning-software
+  normalized_url: https://www.softwaresuggest.com/e-learning-software
+  first_seen_at: 2026-11-23T01:15:00.117Z
+  last_attempted_at: 2026-11-23T01:15:00.117Z
+  last_success_at: 2026-11-23T01:15:00.117Z
+  status: success
+  items_created: 13
+  pipeline: agent-pipeline

@@ -1,12 +1,45 @@
 - id: corporate-lms
-  name: "Corporate LMS"
+  name: Corporate LMS
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect x="3" y="14" width="18" height="6"/><polyline
+    points="3,14 12,8 21,14"/><rect x="9" y="4" width="6" height="4"/><line
+    x1="12" y1="8" x2="12" y2="12"/></svg>
 - id: course-platforms-for-creators
-  name: "Course Platforms for Creators"
+  name: Course Platforms For Creators
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0
+    0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
 - id: open-source-lms
-  name: "Open-Source LMS"
+  name: Open Source LMS
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline
+    points="8 6 2 12 8 18"/></svg>
 - id: lms-for-schools-and-universities
-  name: "LMS for Schools & Universities"
+  name: LMS for Schools & Universities
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polygon points="12,3 18,7 12,11 6,7"/><line x1="12"
+    y1="11" x2="14" y2="15"/><rect x="6" y="13" width="12" height="8"/><line
+    x1="12" y1="13" x2="12" y2="21"/></svg>
 - id: learning-experience-platforms
-  name: "Learning Experience Platforms"
+  name: Learning Experience Platforms
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0
+    0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
 - id: authoring-tools
-  name: "Authoring Tools"
+  name: Authoring Tools
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect x="3" y="3" width="12" height="16" rx="2"
+    ry="2"/><line x1="15" y1="3" x2="19" y2="7"/><line x1="19" y1="7" x2="15"
+    y2="11"/></svg>
+- id: lms-for-schools-universities
+  name: LMS For Schools & Universities
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect x="8" y="8" width="8" height="4"/><line
+    x1="12" y1="12" x2="12" y2="20"/></svg>
